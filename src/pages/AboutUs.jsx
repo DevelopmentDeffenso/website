@@ -95,7 +95,7 @@ export default function AboutUs() {
                         </div>
                         <div>
                             <h3 className="text-2xl font-cyber font-bold text-white mb-2">Calvin Shejin George</h3>
-                            <p className="text-blue-500 text-[10px] font-cyber tracking-widest uppercase mb-4">Founder & CEO</p>
+                            <p className="text-blue-500 text-[10px] font-cyber tracking-widest uppercase mb-4">MADHAV & CEO</p>
                             <p className="text-gray-400 text-sm leading-relaxed mb-4">
                                 A cybersecurity visionary with professional experience at <span className="text-white">META (USA)</span> and <span className="text-white">SAFECYBERIA</span>. Calvin specializes in scalable security frameworks and ethical hacking education.
                             </p>
@@ -122,3 +122,4 @@ export default function AboutUs() {
         </div>
     );
 }
+
